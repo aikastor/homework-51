@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+#root {
+  font-family: Arial, sans-serif;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: row;
+  margin: 0;
+}

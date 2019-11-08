@@ -1,0 +1,12 @@
+.content {
+    display: flex;
+    flex-direction: row;
+}
+.content > article {
+    flex: 4;
+    min-height: 60vh;
+}
+
+article {
+    padding: 1em;
+}

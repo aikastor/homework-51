@@ -1,0 +1,16 @@
+.movie-card {
+    width: 250px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    background: #000000;
+    display: inline-block;
+    margin: 10px;
+}
+img {
+    max-width: 100%;
+}
+h3,p {
+    color: #ffff;
+    text-transform: uppercase;
+}

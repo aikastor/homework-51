@@ -1,0 +1,10 @@
+body{
+  font-family: Arial, sans-serif;
+  background: url("./assets/bg.jpg") center;
+}
+
+.container{
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+}
